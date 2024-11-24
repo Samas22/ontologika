@@ -11,6 +11,7 @@ ontologika is a inforsphere  platform  that combines the power of ontologies wit
 
 By organizing data across domains such as news, climate, finance, transportation, and public health, Ontologika InfoSphere provides personalized, actionable insights while prioritizing ethical governance and user autonomy.
 
+
 ---
 
 ## Key Features and Functional Architecture
