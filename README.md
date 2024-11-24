@@ -133,3 +133,9 @@ For support or inquiries, please contact:
 - **Website:** [www.ontologika.com](http://www.ontologika.com)
 
 **Empower your decisions with Ontologika InfoSphere: A platform that puts privacy, security, and ethical transparency first.**
+
+
+APPENDIX: 
+
+Here is the JSON representation of the given directory structure:  LINK 
+This JSON structure represents the directory and file hierarchy along with brief descriptions of each file as provided.
