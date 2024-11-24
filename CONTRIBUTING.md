@@ -2,4 +2,4 @@
 
 ## First Things  First
 
-# How it Works and must keep working for the sake of evolution and better versions
+# How it Works and must keep working for experienced evolution and better versions
