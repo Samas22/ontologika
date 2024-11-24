@@ -3,7 +3,7 @@ ontologika is a inforsphere  platform  that combines the power of ontologies wit
 
 ![Ontologika Architecture](./oi-ZeroPoint.png "Architecture Overview")
 
-# Ontologika InfoSphere
+# OntoLogika InfoSpHere
 
 ## Overview
 
