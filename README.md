@@ -137,5 +137,20 @@ For support or inquiries, please contact:
 
 APPENDIX: 
 
+
+Running the Application
+
+    Install dependencies:
+
+pip install -r requirements.txt
+
+Start the application:
+
+    python ontologika/main.py
+
+This structure offers a clear, modular foundation for developing Ontologika InfoSphere, making it easy to maintain, scale, and integrate advanced features.
+
+
+
 Here is the JSON representation of the given directory structure:  LINK 
 This JSON structure represents the directory and file hierarchy along with brief descriptions of each file as provided.
