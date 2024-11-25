@@ -155,6 +155,7 @@ Start the application:
 
 This structure offers a clear, modular foundation for developing Ontologika InfoSphere, making it easy to maintain, scale, and integrate advanced features.
 
+![Ontologika Architecture](./oi-fig2.png "Archw")
 
 
 Here is the JSON representation of the given directory structure:  LINK 
