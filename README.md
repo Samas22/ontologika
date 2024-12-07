@@ -131,11 +131,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contact
-
-For support or inquiries, please contact:
-- **Email:** support@ontologika.com
-- **Website:** [www.ontologika.com](http://www.ontologika.com)
 
 **Empower your decisions with Ontologika InfoSphere: A platform that puts privacy, security, and ethical transparency first.**
 
